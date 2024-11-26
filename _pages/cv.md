@@ -11,24 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S in Computer Science(spl:Artificial Intelligence) @ RPTU, Kaiserslautern - 2024
+* B.Tech. in Computer Science and Engg. @ SRM IST, Chennai - 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AI Research Engineer @ Robotics Research Lab - RPTU
+  * Project: LLMs for Reasoning in Autonomous Driving.
+  * Project: Single-Camera BEV Optimization in Autonomous Vehicles.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
+* AI Research Assistant @ Augmented Vision Group - DFKI
+  * Project: Digital Twin 4 Trucks
+  * Project: Conversational Chatbot
+  * Project: Natural Language to SQL
+
+* Project Management Intern @ Digital Farming Lab - RPTU
+  * Project: FarmBot
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* ML Research Intern @ Centre for Artificial Intelligence and Robotics, DRDO
+  * Project: Deep Learning-Based Surveillance
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Summer Research Intern @ Aeronautical Development Establishment, DRDO
+  * Project: Altitude Selection for Long Endurance UAV
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Software Engineering Intern @ Aeronautical Development Establishment, DRDO
+  * Project: Altitude Selection for Long Endurance UAV
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
