@@ -1,0 +1,8 @@
+/* Custom highlight style */
+.highlight {
+    background-color: yellow; /* Highlight with yellow */
+    color: black;            /* Text color */
+    font-weight: bold;       /* Bold font */
+    padding: 2px 4px;        /* Padding around the text */
+    border-radius: 3px;      /* Rounded corners */
+  }
