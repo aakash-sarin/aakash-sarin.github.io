@@ -7,8 +7,8 @@
 # server process.
 
 # Website skin
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"  # Replace "air" with any skin name you want to try
+#theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: "air"  # Replace "air" with any skin name you want to try
 
 # Basic Site Settings
 locale                   : "en-US"
