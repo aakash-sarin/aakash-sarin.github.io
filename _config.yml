@@ -27,9 +27,9 @@ author:
   # Biographic information
   avatar           : "aakash1.jpg"
   name             : "Aakash Sarin"
-  pronouns         : # example: "she/her"  
-  bio              : "Software Engineer | Grad Student | AI/ML Researcher"
-  location         : "Kaiserslautern, RP, DE"
+  pronouns         : "🇩🇪 | 🇮🇳"
+  bio              : "Grad Student | AI/ML Researcher | Software Engineer"
+  location         : "Kaiserslautern, DE "
   employer         : "RPTU | DFKI "
   uri              : # URL
   email            : "sarin@rptu.de" 
@@ -354,3 +354,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
