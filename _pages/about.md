@@ -39,8 +39,8 @@ My research interests lie broadly in Artificial Intelligence, with a particular 
 ---
 
 {% include timeline.md %}
-  <p style="text-align:center;">For more details please see my full CV<a href="http://academicpages.github.io/files/AakashSarin_CV.pdf" target="_blank"> [here] </a>. </p>
-
+  <p style="text-align:center;">For more details please see my full CV<a href="http://aakash-sarin.github.io/files/AakashSarin_CV.pdf" target="_blank"> [here] </a>. </p>
+  
 ---
 
 ### <span class="highlight">Hire me!</span>
